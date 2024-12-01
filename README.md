@@ -1,4 +1,4 @@
-## SuperStore Analysis
+[## SuperStore Analysis
 
 > "Torture the data, and it will confess to anything."** – Ronald Coase (a humorous take!)
 
@@ -116,3 +116,4 @@ By implementing these recommendations, the superstore can continue to build on i
 
 
 ---
+](https://github.com/NishaChandila/Superstore-SQL-Analysis)
