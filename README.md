@@ -10,7 +10,7 @@ The dashboard highlights critical trends, such as top-performing products, regio
 
 - [Dataset here](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart%20Grocery%20Sales%20-%20Retail%20Analytics%20Dataset.csv)
 
-- [Excel Dashboard](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/SuperStore-dashboard.pdf)
+- [Power BI Dashboard](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/SuperStore-dashboard.pdf)
 
 - [Sql Questions](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart-Grocery.sql)
 
@@ -69,7 +69,24 @@ The **Superstore Analytics Dashboard** offers a comprehensive view of the store'
 
 This dashboard empowers the superstore to make informed decisions by uncovering valuable insights from sales trends, regional performance, and customer behavior.
 
-- [Excel Dashboard](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/SuperStore-dashboard.pdf)
+- [Power BI Dashboard](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/SuperStore-dashboard.pdf)
+
+
+### SQL Question
+
+The analysis of the Supermart Grocery Sales Dataset reveals critical insights into sales, profitability, and customer behavior:
+
+- **Sales Performance:** Categories like Eggs and Snacks lead in revenue, while Health Drinks show the highest sales and profit margins. Specific months, like September 2018, achieved peak performance.
+
+- **Customer Insights:** High-value customers contribute significantly to sales, while segmented analysis highlights opportunities to engage medium and low-revenue customers.
+
+- **Regional Trends:** The West leads in sales and profit, while the North requires attention to improve performance. State-level trends emphasize sub-category-specific opportunities.
+
+- **Discount and Profit:** High discounts correlate with lower profitability in some categories, highlighting the need for optimization.
+
+This analysis equips the business with actionable insights to refine strategies, optimize operations, and drive growth.
+
+- [Sql Questions](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart-Grocery.sql)
 
 ---
 
@@ -93,7 +110,7 @@ By implementing these recommendations, the superstore can continue to build on i
 
 - [Dataset here](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart%20Grocery%20Sales%20-%20Retail%20Analytics%20Dataset.csv)
 
-- [Excel Dashboard](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/SuperStore-dashboard.pdf)
+- [Power BI Dashboard](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/SuperStore-dashboard.pdf)
 
 - [Sql Questions](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart-Grocery.sql)
 
