@@ -8,15 +8,19 @@ As data analysts, our mission is to transform raw data into actionable insights 
 
 The dashboard highlights critical trends, such as top-performing products, regional sales disparities, and customer behavior. It empowers the superstore to make data-driven decisions, from launching targeted campaigns to refining discount strategies. By analyzing past performance, we provide insights that pave the way for sustained growth and profitability.
 
-[Dataset here]()
+- [Dataset here](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart%20Grocery%20Sales%20-%20Retail%20Analytics%20Dataset.csv)
 
-[Excel Dashboard]()
+- [Excel Dashboard](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/SuperStore-dashboard.pdf)
+
+- [Sql Questions](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart-Grocery.sql)
 
 ---
 
 ## Data Structure
 
 These columns allow us to analyze key aspects of the superstore’s performance, from product sales and customer behavior to regional trends. By combining data from these areas, we can optimize sales strategies, improve profitability, and tailor marketing efforts. This analysis helps uncover patterns, forecast trends, and provide actionable insights to drive business growth.
+
+![Dataset](https://github.com/NishaChandila/project-assets/blob/main/superstore-dataset.PNG)
 
 ### Columns:
 
@@ -35,31 +39,37 @@ These columns allow us to analyze key aspects of the superstore’s performance,
 
 This structure equips analysts with the necessary data to uncover trends, optimize strategies, and drive informed decision-making.
 
----
-
-## Dataset Preview
-
-[Preview of the Dataset]
+- [Dataset here](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart%20Grocery%20Sales%20-%20Retail%20Analytics%20Dataset.csv)
 
 ---
 
 ## Executive Summary
 
+![Home](https://github.com/NishaChandila/project-assets/blob/main/superstore1.PNG)
+
 The **Superstore Analytics Dashboard** offers a comprehensive view of the store's performance, enabling data-driven decision-making for better sales, profitability, and customer engagement. The insights are divided into two key sections: **Sales** and **Customer & Product**.
 
 ### Sales Page:
+
+![Sales](https://github.com/NishaChandila/project-assets/blob/main/superstore2.PNG)
+
 - **Total Sales**: $15M with a profit of $3.75M, reflecting strong financial health.
 - **Top Categories**: Eggs, Meat & Fish, and Snacks are leading sales, contributing significantly to revenue ($2.27M and $2.24M, respectively).
 - **Regional Performance**: The **West** region accounts for the highest sales at 38.34%, while the **North** shows no profit, indicating an opportunity for improvement.
 - **Sales and Profit Trends**: **September 2018** stands out with the highest sales ($589K) and profit ($152K), suggesting that similar strategies could be revisited.
 
 ### Customer & Product Page:
+
+![Customer](https://github.com/NishaChandila/project-assets/blob/main/superstore3.PNG)
+
 - **Top Performing Customer**: **Krithika** leads with $334K in sales, highlighting the importance of high-value customers.
 - **Top Sub-Category**: **Health Drinks** generate the highest sales ($1.05M) and profit ($267K), signaling areas for targeted growth.
 - **Customer Segments**: **65.17%** of customers fall into the high-revenue segment, with a significant opportunity to engage medium and low-revenue segments.
 - **Discount Trends**: Categories like **Eggs**, **Meat & Fish** are receiving the highest discounts, indicating a need to revisit pricing strategies to boost margins.
 
 This dashboard empowers the superstore to make informed decisions by uncovering valuable insights from sales trends, regional performance, and customer behavior.
+
+- [Excel Dashboard](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/SuperStore-dashboard.pdf)
 
 ---
 
@@ -80,5 +90,12 @@ Based on the insights derived from the Superstore Analytics Dashboard, here are 
 - **Revisit Discount Strategy**: Categories like **Eggs**, **Meat & Fish**, and **Snacks** are seeing high discounts. To improve margins, revisit discount strategies in these categories and ensure they align with profit objectives.
 
 By implementing these recommendations, the superstore can continue to build on its strengths, optimize performance across regions, and enhance customer satisfaction.
+
+- [Dataset here](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart%20Grocery%20Sales%20-%20Retail%20Analytics%20Dataset.csv)
+
+- [Excel Dashboard](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/SuperStore-dashboard.pdf)
+
+- [Sql Questions](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart-Grocery.sql)
+
 
 ---
