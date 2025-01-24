@@ -8,11 +8,9 @@ As data analysts, our mission is to transform raw data into actionable insights 
 
 The dashboard highlights critical trends, such as top-performing products, regional sales disparities, and customer behavior. It empowers the superstore to make data-driven decisions, from launching targeted campaigns to refining discount strategies. By analyzing past performance, we provide insights that pave the way for sustained growth and profitability.
 
-- [Dataset here](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart%20Grocery%20Sales%20-%20Retail%20Analytics%20Dataset.csv)
-
-- [Power BI Dashboard](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/SuperStore-dashboard.pdf)
-
-- [Sql Questions](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart-Grocery.sql)
+- SuperStore [Dataset](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart%20Grocery%20Sales%20-%20Retail%20Analytics%20Dataset.csv)
+- SuperStore [Power BI Dashboard](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/SuperStore-dashboard.pdf)
+- SuperStore [Sql Queries](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart-Grocery.sql)
 
 ---
 
@@ -39,7 +37,7 @@ These columns allow us to analyze key aspects of the superstore’s performance,
 
 This structure equips analysts with the necessary data to uncover trends, optimize strategies, and drive informed decision-making.
 
-- [Dataset here](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart%20Grocery%20Sales%20-%20Retail%20Analytics%20Dataset.csv)
+- SuperStore [Dataset](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart%20Grocery%20Sales%20-%20Retail%20Analytics%20Dataset.csv)
 
 ---
 
@@ -69,7 +67,7 @@ The **Superstore Analytics Dashboard** offers a comprehensive view of the store'
 
 This dashboard empowers the superstore to make informed decisions by uncovering valuable insights from sales trends, regional performance, and customer behavior.
 
-- [Power BI Dashboard](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/SuperStore-dashboard.pdf)
+- SuperStore [Power BI Dashboard](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/SuperStore-dashboard.pdf)
 
 
 ### SQL Question
@@ -86,7 +84,7 @@ The analysis of the Supermart Grocery Sales Dataset reveals critical insights in
 
 This analysis equips the business with actionable insights to refine strategies, optimize operations, and drive growth.
 
-- [Sql Questions](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart-Grocery.sql)
+- SuperStore [Sql Queries](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart-Grocery.sql)
 
 ---
 
@@ -108,11 +106,8 @@ Based on the insights derived from the Superstore Analytics Dashboard, here are 
 
 By implementing these recommendations, the superstore can continue to build on its strengths, optimize performance across regions, and enhance customer satisfaction.
 
-- [Dataset here](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart%20Grocery%20Sales%20-%20Retail%20Analytics%20Dataset.csv)
-
-- [Power BI Dashboard](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/SuperStore-dashboard.pdf)
-
-- [Sql Questions](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart-Grocery.sql)
-
+- SuperStore [Dataset](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart%20Grocery%20Sales%20-%20Retail%20Analytics%20Dataset.csv)
+- SuperStore [Power BI Dashboard](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/SuperStore-dashboard.pdf)
+- SuperStore [Sql Queries](https://github.com/NishaChandila/Superstore-SQL-Analysis/blob/main/Supermart-Grocery.sql)
 
 ---
